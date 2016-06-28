@@ -1,0 +1,42 @@
+body {
+	font-family: "Open Sans", sans-serif;
+	padding: 40px;
+	background-color: #fafafa;
+}
+
+a {
+	text-decoration: none;
+	color: #129BB0;
+}
+
+img {
+	border-radius: 50%;
+	max-width: 300px;
+}
+
+ul.nav {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	font-size: 1.2em;
+}
+
+ul.nav li {
+	display: inline-block;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+div.content {
+	max-width: 560px;
+	margin: auto;
+}
+
+h1,h2,h3,h4 {
+	font-family: 'PT Serif', serif;
+	font-weight: 500; 
+}
+
+h1 {
+	text-align: center;
+}
