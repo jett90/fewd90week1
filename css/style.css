@@ -1,1 +1,22 @@
+body {
+	font-family: "Open Sans", sans-serif;
+	padding: 40px;
+}
+ul.nav {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
 
+a {
+	text-decoration: none;
+}
+
+ul.nav li {
+	display: inline-block;
+	padding-right: 40px;
+}
+
+div.content {
+	width: 960px;
+}
